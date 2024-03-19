@@ -47,15 +47,21 @@ Link Kat is a simple web application for shortening URLs effortlessly. It allows
 
     - Once the URL is shortened, you can copy the generated link.
 
+3. **Delete URL:**
+
+    - Click on the "Delete" button next to the shortened URL to remove it from the list.
 <!-- 3. **Edit URL:**
 
     - Click on the "Edit" button next to the shortened URL to make changes.
     - Update the URL details and click on the "Save" button.
 
-4. **Delete URL:**
-
-    - Click on the "Delete" button next to the shortened URL to remove it from the list. -->
+ -->
 
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or feature suggestions.
+
+## Screenshots
+
+ ![Screenshot 1](screenshots/link-kat-1.png)
+
