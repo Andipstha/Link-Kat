@@ -49,7 +49,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/link-kat.git
+    git clone https://github.com/andipstha/link-kat.git
     ```
 
 2. **Database Setup:**
